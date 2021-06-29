@@ -1,0 +1,2 @@
+# Image-Dehazing-Project
+Haze degrades image quality and limits visibility especially in outdoor settings. This consequently affects performance on other high-level tasks such as object detection and recognition. The AOD network proposed by Boyi Li et. al. is an end-to-end CNN to de-haze an image. AOD takes as input a hazy image and generates a de-hazed image. Here i have implement  the given paper AOD-net in Tensorflow.
